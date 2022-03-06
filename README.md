@@ -16,7 +16,7 @@ Here, ss = termination time, n = maximum number of processes.
 
 ## Git
 
-https://github.com/SanzidaH/SanzidaH-CMPSCI4760-p2.git
+https://github.com/SanzidaH/CMPSCI4760-p2.git
 
 ## Task Summary
 
